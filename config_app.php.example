@@ -1,0 +1,8 @@
+<?php
+// App configuration example
+// Copy this file to config_app.php and update the values.
+return [
+    'app_name' => 'Invoice Generator',
+    'base_url' => 'http://localhost/your_invoice_generator_path',
+    'default_currency' => 'USD', // e.g., USD, EUR, GBP
+];

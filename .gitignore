@@ -1,0 +1,28 @@
+# SQLite database
+invoice_generator.sqlite
+*.sqlite3
+
+# Configuration files (use .example files for templates)
+config_app.php
+config_database.php
+config_email.php
+
+# IDE and OS specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Composer dependencies (if you ever use Composer)
+vendor/
+composer.lock
+
+# PHPUnit cache
+.phpunit.result.cache

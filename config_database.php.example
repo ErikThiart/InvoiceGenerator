@@ -1,0 +1,17 @@
+<?php
+// Database configuration example
+// Copy this file to config_database.php and update with your database credentials.
+// This application is configured to use SQLite by default (see includes/db.php).
+// If you switch to MySQL or another DB, you'll need to update includes/db.php and this file accordingly.
+return [
+    // For SQLite, these values are not strictly necessary as connection is handled via DSN in db.php
+    // For MySQL/PostgreSQL:
+    // 'host' => 'localhost',
+    // 'dbname' => 'invoice_generator',
+    // 'username' => 'your_db_user',
+    // 'password' => 'your_db_password',
+    
+    // SQLite specific (path is defined in includes/db.php)
+    'driver' => 'sqlite',
+    'db_path' => __DIR__ . '/../invoice_generator.sqlite', // Relative to the includes directory where db.php is
+];

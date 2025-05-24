@@ -1,0 +1,12 @@
+<?php
+// Email configuration example
+// Copy this file to config_email.php and update with your SMTP server details.
+return [
+    'smtp_host' => 'your_smtp_host.com',
+    'smtp_port' => 587, // Or 465 for SSL, 25 for unencrypted (not recommended)
+    'smtp_user' => 'your_smtp_username',
+    'smtp_pass' => 'your_smtp_password',
+    'smtp_secure' => 'tls', // 'tls', 'ssl', or false (for unencrypted)
+    'from_email' => 'noreply@yourdomain.com',
+    'from_name' => 'Invoice Generator',
+];

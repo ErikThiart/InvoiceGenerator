@@ -1,0 +1,20 @@
+/* Main CSS File - Import Structure */
+/* This is your main CSS file that imports all the modular components */
+
+/* 1. Variables and Design Tokens */
+@import url('./variables.css');
+
+/* 2. Base Styles and Reset */
+@import url('./base.css');
+
+/* 3. Layout Components */
+@import url('./layout.css');
+
+/* 4. UI Components */
+@import url('./components.css');
+
+/* 5. Table Specific Styles */
+@import url('./tables.css');
+
+/* 6. Responsive Styles */
+@import url('./responsive.css');
