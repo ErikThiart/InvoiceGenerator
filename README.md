@@ -21,17 +21,17 @@ A simple PHP-based web application for creating and managing invoices, clients, 
 
 ## 📋 Table of Contents
 
-1.  [Getting Started](#🚀-getting-started)
-    *   [Prerequisites](#✅-prerequisites)
-    *   [Installation & Setup](#⚙️-installation--setup)
-2.  [How to Use](#💡-how-to-use)
-3.  [🖼️ Screenshots](#🖼️-screenshots)
-4.  [File Structure Overview](#📁-file-structure-overview)
-5.  [Key Files and Functionality](#🔑-key-files-and-functionality)
-6.  [Database Schema](#🗄️-database-schema)
-7.  [Running Tests](#🧪-running-tests)
-8.  [Contributing](#🤝-contributing)
-9.  [License](#📜-license)
+1.  [Getting Started](#getting-started)
+    *   [Prerequisites](#prerequisites)
+    *   [Installation & Setup](#installation--setup)
+2.  [How to Use](#how-to-use)
+3.  [Screenshots](#screenshots)
+4.  [File Structure Overview](#file-structure-overview)
+5.  [Key Files and Functionality](#key-files-and-functionality)
+6.  [Database Schema](#database-schema-schemasql)
+7.  [Running Tests](#running-tests)
+8.  [Contributing](#contributing)
+9.  [License](#license)
 
 ---
 
