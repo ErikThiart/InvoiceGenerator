@@ -25,12 +25,13 @@ A simple PHP-based web application for creating and managing invoices, clients, 
     *   [Prerequisites](#✅-prerequisites)
     *   [Installation & Setup](#⚙️-installation--setup)
 2.  [How to Use](#💡-how-to-use)
-3.  [File Structure Overview](#📁-file-structure-overview)
-4.  [Key Files and Functionality](#🔑-key-files-and-functionality)
-5.  [Database Schema](#🗄️-database-schema)
-6.  [Running Tests](#🧪-running-tests)
-7.  [Contributing](#🤝-contributing)
-8.  [License](#📜-license)
+3.  [🖼️ Screenshots](#🖼️-screenshots)
+4.  [File Structure Overview](#📁-file-structure-overview)
+5.  [Key Files and Functionality](#🔑-key-files-and-functionality)
+6.  [Database Schema](#🗄️-database-schema)
+7.  [Running Tests](#🧪-running-tests)
+8.  [Contributing](#🤝-contributing)
+9.  [License](#📜-license)
 
 ---
 
@@ -95,7 +96,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## 💡 How to Use
 
-1.  **Register/Login:** Access the application via your configured `base_url`. You\'ll be directed to register a new user or log in.
+1.  **Register/Login:** Access the application via your configured `base_url`. You'll be directed to register a new user or log in.
 2.  **Dashboard:** Upon login, the dashboard provides an overview of your business metrics.
 3.  **Manage Clients:** Use the "Clients" section to add, view, edit, or delete client records.
 4.  **Manage Invoices:**
@@ -104,6 +105,24 @@ Follow these instructions to get a copy of the project up and running on your lo
     *   View individual invoices to download as PDF or send via email (if email is configured).
 5.  **Record Payments:** Track payments made against invoices in the "Payments" section or directly from an invoice view.
 6.  **View Reports:** The "Reports" section offers business analytics (currently basic).
+
+---
+
+## 🖼️ Screenshots
+
+Here's a glimpse of the Invoice Generator in action:
+
+**Dashboard Overview:**
+![Dashboard Overview](./screenshots/dashboard_overview.jpg)
+
+**Clients Overview:**
+![Clients Overview](./screenshots/clients_overview.jpg)
+
+**Invoices Overview:**
+![Invoices Overview](./screenshots/invoices_overview.jpg)
+
+**Reports Overview:**
+![Reports Overview](./screenshots/reports_overview.jpg)
 
 ---
 
